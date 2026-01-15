@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+}
+
+nav {
+    color: white;
+    background-color: darkslategrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: auto;
+    width: auto;
+    padding: 0pt;
+    margin: 0pt;
+    border-left: 0pt;
+}
+
+h1{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
